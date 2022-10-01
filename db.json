@@ -1,1 +1,13 @@
 
+{
+  "regions" : [
+        {
+            "title":"Normandie",
+            "code":"14"
+        },
+        {
+             "title":"Evreux",
+            "code":"27"
+        }
+    ]
+}
