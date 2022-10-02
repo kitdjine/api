@@ -3,11 +3,13 @@
   "regions" : [
         {
             "title":"Normandie",
-            "code":"14"
+            "code":"14",
+            "imagePath": "C:\DEV\DATA\ARCHIMAID\02.png"
         },
         {
              "title":"Evreux",
             "code":"27"
+          "imagePath": "C:\DEV\DATA\ARCHIMAID\14.png"
         }
     ]
 }
