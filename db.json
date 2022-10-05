@@ -20,5 +20,82 @@
     ],
   "test":{
     
+  },
+  "newsletter":{
+    "frequence" : "tous les jours",
+    "teritoireId":"idtetste",
+ , 10 -  - 12 - , hématopoïétique et apparentés13 - Sièges multiples indépendants (primitifs)14 - Toutes tumeurs solides
+    "options": [
+      {
+        "id":"14",
+         "libelle":"Tissus lymphoïde",
+         "valeur":true
+      },
+      {
+        "id":"13",
+         "libelle":"Tumeurs malignes de sièges mal définis, secondaires et non précisés",
+         "valeur":true
+      },
+      {
+        "id":"12",
+         "libelle":"Thyroïde et autres glandes endocrines11",
+         "valeur":true
+      },
+      {
+        "id":"11",
+         "libelle":"cerveau et autres parties du système nerveux central",
+         "valeur":true
+      },
+      {
+        "id":"10",
+         "libelle":"Oeil",
+         "valeur":true
+      },
+      {
+        "id":"9",
+         "libelle":"Voies urinaires",
+         "valeur":true
+      },
+      {
+        "id":"8",
+         "libelle":"Organes respiratoires et intrathoraciques",
+         "valeur":true
+      },
+      {
+        "id":"8",
+         "libelle":"Organes digestifs",
+         "valeur":true
+      },
+      {
+        "id":"6",
+         "libelle":"Os et cartilage articulaire",
+         "valeur":true
+      },
+      {
+        "id":"5",
+         "libelle":"Peau",
+         "valeur":true
+      },
+      {
+        "id":"4",
+         "libelle":"Tissu mésothélial et tissus mous",
+         "valeur":true
+      },
+      {
+        "id":"3",
+         "libelle":"Seins",
+         "valeur":true
+      },
+      {
+        "id":"2",
+         "libelle":"organes génitaux de la femme",
+         "valeur":true
+      },
+      {
+        "id":"1",
+         "libelle":"Organes génitaux masculins",
+         "valeur":true
+      }
+    ]
   }
 }
