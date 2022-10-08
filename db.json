@@ -22,7 +22,7 @@
     
   },
   "newsletter":{
-    "frequence" : "tous les jours",
+    "frequence" : "2",
     "teritoireId":"idtetste",
     "options": [
       {
