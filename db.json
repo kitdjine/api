@@ -3,19 +3,19 @@
   "regions" : [
          {
             "title":"Normandie",
-            "code":"code"
+            "code":"1"
          },
     {
-            "title":"Normandie",
-            "code":"code"
+            "title":"Evreux",
+            "code":"2"
          },
     {
-            "title":"Normandie",
-            "code":"code"
+            "title":"Paris",
+            "code":"3"
          },
     {
-            "title":"Normandie",
-            "code":"code"
+            "title":"Nord",
+            "code":"4"
          }
     ],
   "test":{
