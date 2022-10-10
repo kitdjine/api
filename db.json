@@ -23,7 +23,7 @@
   },
   "newsletter":{
     "frequence" : "2",
-    "teritoireId":"idtetste",
+    "territoire":[],
     "options": [
       {
         "id":"14",
